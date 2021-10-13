@@ -7,21 +7,21 @@ h1 {
 }
 .image {
   float: left;
-  padding: 5px;
+  padding: 20px;
 
 }
 .sidebar {
   width:30%;
   float:right;
   background-color:aquamarine;
-  border: 2px pink;
-  padding: 2px;
-  margin: 5px;
+  border: 20px solid pink;
+  padding: 20px;
+  margin: 35px;
 
 }
 .image2 {
   float: right;
-  padding: 5px;
+  padding: 20px;
 }
 body {
   background-color:lightskyblue
