@@ -1,0 +1,22 @@
+h1 {
+  color: pink;
+  text-align: center
+}
+.highlight {
+  color:pink
+}
+.image {
+  float: left;
+
+}
+.sidebar {
+  width:30%;
+  float:right;
+  background-color:aquamarine
+}
+.image2 {
+  float: right
+}
+body {
+  background-color:lightskyblue
+}
